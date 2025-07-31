@@ -2,9 +2,9 @@
 
 ### Project Overview
 
-This project presents an interactive dashboard that analyzes sales performance, profitability, and inventory efficiency in the furniture industry. Using historical transaction data, the analysis focuses on key performance indicators such as total revenue, average profit margin, discount impact, and inventory turnover rate.
-The dashboard highlights trends across product categories, store types (online vs retail), materials, seasons, and customer locations (rural/suburban). It helps identify what’s working such as high-performing product categories or seasons and what’s not, such as low-profit items or inefficient inventory turnover.
-This solution enables data-driven decision-making for optimizing pricing, inventory management, and marketing strategies.
+This project presents an interactive dashboard that analyzes sales performance, profitability, and inventory efficiency in the furniture industry. Using historical transaction data, the analysis focuses on key performance indicators such as total revenue, average profit margin, discount impact, and inventory turnover rate. The dashboard highlights trends across product categories, store types (online vs retail), materials, seasons, and customer locations (rural/suburban). 
+
+<img width="983" height="548" alt="Dashboard" src="https://github.com/user-attachments/assets/00cbc1e7-f0ba-4990-a466-b7c44452ad93" />
 
 ### Data Source 
 Furniture Data: The primary data set used for this analysis is the " furniture_data.csv" file containing detailed information about each sales made by the company
@@ -42,7 +42,7 @@ Include:
 3. Online stores gave higher Sales but had slower delivery
 
 ### Recommendations
-Based on the analysis, i recommend the actions
+Based on the analysis, i recommend this actions
 
 1. Reduce discounts on underperforming items like bed.
 2. Optimize delivery time for plastic material.
